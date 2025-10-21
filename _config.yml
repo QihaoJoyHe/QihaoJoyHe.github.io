@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Qihao (Joy) He (何其好)"
   pronouns         : "She/Her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
-  employer         : "Red Brick University"
+  employer         : "Peking University"
   uri              : # URL
   email            : "joyheqihao@gmail.com" 
 
