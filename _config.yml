@@ -255,10 +255,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -273,21 +273,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _code
   - scope:
       path: ""
-      type: portfolio
+      type: code
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _cv
   - scope:
       path: ""
-      type: talks
+      type: cv
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
