@@ -25,7 +25,7 @@ Exp2
 ---
 
 ### Demo
-<img src="/images/research/Nav_learn_demo.gif" alt="Demo of navigation learning" style="max-width: 80%; border-radius: 12px;">
+🎞️ [Demo]() of learning one target in the virtual city in Exp 2. 
 
 ---
 
