@@ -52,11 +52,16 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.advisor %}
-      <p><strong>Supervisor:</strong> {{ post.advisor | markdownify }}</p>
-    {% endif %}
-    {% if post.institution %}
-      <p><strong>Institution:</strong> {{ post.institution | markdownify }}</p>
+    {% if post.advisor or post.institution %}
+      <p class="archive__item-meta">
+        {% if post.advisor %}
+          <strong>Supervisor:</strong> {{ post.advisor | markdownify | remove: '<p>' | remove: '</p>' }}
+        {% endif %}
+        {% if post.advisor and post.institution %}, {% endif %}
+        {% if post.institution %}
+          {{ post.institution | markdownify | remove: '<p>' | remove: '</p>' }}
+        {% endif %}
+      </p>
     {% endif %}
     
     {% if post.header.image %}
