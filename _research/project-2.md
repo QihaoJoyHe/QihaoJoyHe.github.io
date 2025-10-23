@@ -25,10 +25,6 @@ By analyzing reaction times and accuracy, we inferred the diagnostic facial feat
 
 ---
 
-
-
----
-
 ### Code Repository
 🔗 [View Code on GitHub](https://github.com/yourusername/emotion-template-reconstruction)
 
