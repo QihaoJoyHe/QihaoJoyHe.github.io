@@ -2,7 +2,7 @@
 title: "Dynamic Reconstruction of Perceptual Templates for Positive and Negative Emotions in Social Anxiety Disorder"
 collection: research
 permalink: /research/FaceAU/
-excerpt: "Using reverse correlation and dynamic 3D face modeling to uncover emotion representation in individuals with high and low social anxiety."
+excerpt: "Using reverse correlation and dynamic 3D face modeling based on Facial Action Coding System (FACS) to uncover emotion representation in individuals with high and low social anxiety."
 institution: "[SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm)"
 advisor: "[Prof. Yujia Peng](https://www.ypeng.org)"
 header:
@@ -11,11 +11,9 @@ header:
 ---
 
 ### Overview
-This project investigated how individuals with high and low levels of social anxiety process dynamic facial information when judging positive and negative emotions.  
-We used a **reverse correlation** technique combined with a **Generative Model of 3D Faces (GMF)** and the **Facial Action Coding System (FACS)** to construct dynamic facial stimuli varying in facial action unites (AUs).
+This project investigated how individuals with high and low social anxiety (SA) levels process dynamic facial information when judging positive (happy) and negative (angry) emotions. We used a **reverse correlation** ([Dotsch & Todorov, 2012](https://journals.sagepub.com/doi/10.1177/1948550611430272))technique combined with a **Generative Model of 3D Faces (GMF)** ([Yu et al., 2012](https://www.sciencedirect.com/science/article/abs/pii/S0097849311001695); [Chen et al., 2024](https://www.sciencedirect.com/science/article/pii/S0960982223016561)) based on the **Facial Action Coding System (FACS)** (Ekman & Friesen, 1978) to construct dynamic facial stimuli varying in facial action unites (AUs). Participants viewed dynamic faces and judged whether the emotion displayed was *Happy*, *Angry*, or *Other*. 
 
-Participants viewed dynamic faces and judged whether the emotion displayed was *Happy*, *Angry*, or *Other*.  
-By analyzing reaction times and accuracy, we inferred the diagnostic facial features participants relied upon, reconstructing individual **perceptual emotion templates**.
+Despite comparable overall accuracy, RT, sensitivity (d’), and bias (c), trial-level mixed modeling revealed that high SA individuals showed weaker modulation of diagnostic AUs for both emotions (AU9 nose wrinkler, for angry; AU12 lip-corner puller and AU25 lips part, for happy) and achieved higher accuracy under lower amplitude or delayed cues, suggesting enhanced sensitivity under ambiguity. Template reconstruction further suggested smaller intensity of diagnostic AUs in high SA, indicating emotional judgments with less sensory evidence. Together, these results demonstrate that SA-related perceptual biases arise from differences in dynamic information utilization. This study provides a quantitative framework that bridges behavioral modeling and internal representations, offering new insights into the mechanisms of maladaptive social cognition.
 
 ---
 
