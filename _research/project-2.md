@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Reconstruction of Perceptual Templates for Positive and Negative Emotions in Social Anxiety Disorder"
 collection: research
-permalink: /research/
+permalink: /research/FaceAU/
 excerpt: "Using reverse correlation and dynamic 3D face modeling to uncover emotion representation in individuals with high and low social anxiety."
 year: 2024
 institution: "Peking University"
