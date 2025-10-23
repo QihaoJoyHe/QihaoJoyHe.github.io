@@ -18,7 +18,7 @@ Despite comparable overall accuracy, RT, sensitivity (d’), and bias (c), trial
 ---
 
 ### Demo
-🎞️ Demo of dynamic face stimuli for [Angry](/assets/) and [Happy](). 
+🎞️ Demo of dynamic face stimuli for [Angry](../assets/Angry_F.mp4) and [Happy](../assets/Happy_M.mp4). 
 
 ---
 
