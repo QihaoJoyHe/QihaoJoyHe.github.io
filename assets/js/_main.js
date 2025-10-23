@@ -4,6 +4,7 @@
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
+/*
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
@@ -18,6 +19,7 @@ let determineComputedTheme = () => {
   }
   return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
 };
+
 
 // detect OS/browser preference
 const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
@@ -46,6 +48,7 @@ var toggleTheme = () => {
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
 };
+*/
 
 /* ==========================================================================
    Plotly integration script so that Markdown codeblocks will be rendered
@@ -91,6 +94,7 @@ $(document).ready(function () {
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
   // If the user hasn't chosen a theme, follow the OS preference
+/*
   setTheme();
   window.matchMedia('(prefers-color-scheme: dark)')
         .addEventListener("change", (e) => {
@@ -101,7 +105,8 @@ $(document).ready(function () {
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
-
+*/
+   
   // Enable the sticky footer
   var bumpIt = function () {
     $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
