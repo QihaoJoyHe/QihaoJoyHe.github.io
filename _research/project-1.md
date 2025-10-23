@@ -38,4 +38,4 @@ Exp2
 ---
 
 ### Acknowledgment
-Supervised by [Prof. Sheng Li](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ls/index.htm) at [SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm).  
+Supervised by [Prof. Sheng Li](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ls/index.htm) at [School of Psychological and Cognitive Sciences, Peking University](https://www.psy.pku.edu.cn/index.htm).  
