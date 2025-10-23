@@ -13,7 +13,7 @@ header:
 
 ### Overview
 This project investigated how individuals with high and low levels of social anxiety process dynamic facial information when judging positive and negative emotions.  
-We used a **reverse correlation** technique combined with a **Generative Model of 3D Faces (GMF)** and the **Facial Action Coding System (FACS)** to construct dynamic facial stimuli varying in facial action unites (FaceAUs).
+We used a **reverse correlation** technique combined with a **Generative Model of 3D Faces (GMF)** and the **Facial Action Coding System (FACS)** to construct dynamic facial stimuli varying in facial action unites (AUs).
 
 Participants viewed dynamic faces and judged whether the emotion displayed was *Happy*, *Angry*, or *Other*.  
 By analyzing reaction times and accuracy, we inferred the diagnostic facial features participants relied upon, reconstructing individual **perceptual emotion templates**.
@@ -35,4 +35,4 @@ By analyzing reaction times and accuracy, we inferred the diagnostic facial feat
 ---
 
 ### Acknowledgment
-Supervised by {{ [Prof. Yujia Peng](https://www.ypeng.org) }} at {{ [SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm) }}.  
+Supervised by [Prof. Yujia Peng](https://www.ypeng.org) at [SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm).  
