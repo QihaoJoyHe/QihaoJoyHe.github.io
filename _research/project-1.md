@@ -25,8 +25,10 @@ Exp2
 ---
 
 ### Demo
-🎞️ [Demo]() of learning one target while navigating in the virtual city for Exp 2. 
-
+🎞️ Demo of learning one target while navigating in the virtual city for Exp 2:  
+<p align="center">
+  <img src="/assets/Nav_demo.gif" alt="Navigation Demo" width="80%" style="border-radius: 12px; margin-top: 10px;">
+</p>
 ---
 
 ### Code Repository
