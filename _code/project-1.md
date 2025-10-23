@@ -31,4 +31,4 @@ The full experiment code is available on GitHub:
 
 ---
 
-*Note: This repository includes only the behavioral experiment implementation.*
+*Note: This repository includes only the three behavioral experiment implementation.*
