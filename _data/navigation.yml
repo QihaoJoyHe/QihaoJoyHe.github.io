@@ -31,6 +31,9 @@ main:
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Something Fun"
+    url: /fun/
     
   # - title: "CV"
   #   url: /cv-json/
