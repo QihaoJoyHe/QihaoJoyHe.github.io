@@ -13,6 +13,6 @@ My research lies at the intersection of **high-level vision and cognition**. I'm
 
 During my undergraduate years, I've been lucky to explore a wide range of topics in visual cognition: **Scene Perception & Spatial Navigation** (with [Prof. Sheng Li](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ls/index.htm), PKU), **Facial Expression Perception** (with [Prof. Yujia Peng](https://www.ypeng.org), PKU), **Face Identity Perception & Human-AI Comparison** (with [Prof. Zili Liu](https://zililab.psych.ucla.edu), UCLA), and **Confidence & Metacognitive Training** (with [Prof. Dobromir Rahnev](https://rahnevlab.gatech.edu/index.html), Georgia Tech). While they may seem a bit *all over the map*, these independent projects have really broaden my horizons and sharpened my sense for methodology and scientific thinking! See Research for details. 
 
-You can find my CV here: [Qihao He's Curriculum Vitae]() (updated in Oct 2025). 
+You can find my CV here: [Qihao He's Curriculum Vitae](../assets/CV_QihaoHe_Oct2025.pdf) (updated in Oct 2025). 
 
 Outside of research, I love Chinese calligraphy, photography, figure skating, running, and reading. 
