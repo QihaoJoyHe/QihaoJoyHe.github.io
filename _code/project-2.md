@@ -16,7 +16,7 @@ The experiment was implemented with **Psychtoolbox** and **MATLAB**, presenting 
 ## Contents
 
 - **`FaceAU_main.m`** — Main experiment script.  
-- **`/Stimuli/`** — 1200 preloaded dynamic face stimuli with randomized AU parameters. 
+- **`StimuliList.mat`** — 1200 preloaded dynamic face stimuli with randomized AU parameters. 
 - **`README.md`** — Documentation and experiment structure overview.
 
 ---
@@ -25,7 +25,7 @@ The experiment was implemented with **Psychtoolbox** and **MATLAB**, presenting 
 
 The full experiment code is available on GitHub:
 
-🔗 [View Code Repository](https://github.com/<your-username>/FaceAU-Experiment)
+🔗 [View Code Repository](https://github.com/QihaoJoyHe/FaceAU)
 
 ---
 
