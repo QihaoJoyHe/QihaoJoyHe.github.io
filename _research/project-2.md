@@ -38,4 +38,4 @@ Despite comparable overall accuracy, RT, sensitivity (d’), and bias (c), trial
 ---
 
 ### Acknowledgment
-Supervised by [Prof. Yujia Peng](https://www.ypeng.org) at [SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm).  
+Supervised by [Prof. Yujia Peng](https://www.ypeng.org) at [School of Psychological and Cognitive Sciences, Peking University](https://www.psy.pku.edu.cn/index.htm).  
