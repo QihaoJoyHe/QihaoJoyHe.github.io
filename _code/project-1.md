@@ -1,7 +1,7 @@
 ---
 title: "Pano & Navigation Experiment Code"
 layout: archive
-description: "MATLAB and C# scripts for the panoramic street scenes and virtual city experiment."
+excerpt: "MATLAB and C# scripts for the panoramic street scenes and virtual city experiment."
 permalink: /code/project-1/
 ---
 
