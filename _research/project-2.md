@@ -21,11 +21,11 @@ Despite comparable overall accuracy, RT, sensitivity (d’), and bias (c), trial
 🎞️ Demo of dynamic face stimuli for Angry and Happy:
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap;">
   <div style="text-align: center;">
-    <img src="../assets/Angry_F.gif" alt="Angry Stimulus" style="width:250px; border-radius:12px; margin-bottom:8px;">
+    <img src="../assets/Angry.gif" alt="Angry Stimulus" style="width:250px; border-radius:12px; margin-bottom:8px;">
     <div><strong>Angry</strong></div>
   </div>
   <div style="text-align: center;">
-    <img src="../assets/Happy_M.gif" alt="Happy Stimulus" style="width:250px; border-radius:12px; margin-bottom:8px;">
+    <img src="../assets/Happy.gif" alt="Happy Stimulus" style="width:250px; border-radius:12px; margin-bottom:8px;">
     <div><strong>Happy</strong></div>
   </div>
 </div>
