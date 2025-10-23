@@ -1,5 +1,30 @@
 ---
 title: "Global-Local Reference Frame Shift: The Influence of Street Layout on Heading in Spatial Navigation"
-excerpt: "Short description"
 collection: research
+permalink: /research/PanoNav/
+excerpt: "Short description"
+institution: "[SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm)"
+advisor: "[Prof. Sheng Li](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ls/index.htm)"
+image: /images/research/PanoNav_demo.png
 ---
+
+
+### Overview
+This project 
+
+<img src="/images/research/PanoNav_demo.png" alt="Stimuli generation" style="max-width: 80%; border-radius: 12px;">
+
+---
+
+### Demo
+<img src="/images/research/emotion_stimuli_demo.gif" alt="Demo of dynamic face stimuli" style="max-width: 80%; border-radius: 12px;">
+
+---
+
+### Code Repository
+🔗 [View Experiment Code](/code/project-1/)
+
+---
+
+### Acknowledgment
+Supervised by [Prof. Sheng Li](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ls/index.htm) at [SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm).  
