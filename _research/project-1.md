@@ -25,7 +25,7 @@ Exp2
 ---
 
 ### Demo
-🎞️ [Demo]() of learning one target in the virtual city in Exp 2. 
+🎞️ [Demo]() of learning one target while navigating in the virtual city for Exp 2. 
 
 ---
 
