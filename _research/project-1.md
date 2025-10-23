@@ -12,12 +12,14 @@ image: /images/research/PanoNav_demo.png
 ### Overview
 This project 
 
-<img src="/images/research/PanoNav_demo.png" alt="Stimuli generation" style="max-width: 80%; border-radius: 12px;">
+<img src="/images/research/Pano_demo.png" alt="Experiment 1" style="max-width: 80%; border-radius: 12px;">
+
+<img src="/images/research/Nav_demo.png" alt="Experiment 2" style="max-width: 80%; border-radius: 12px;">
 
 ---
 
 ### Demo
-<img src="/images/research/emotion_stimuli_demo.gif" alt="Demo of dynamic face stimuli" style="max-width: 80%; border-radius: 12px;">
+<img src="/images/research/Nav_learn_demo.gif" alt="Demo of navigation learning" style="max-width: 80%; border-radius: 12px;">
 
 ---
 
