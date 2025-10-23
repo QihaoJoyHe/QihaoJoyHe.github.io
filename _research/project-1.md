@@ -10,7 +10,7 @@ image: /images/research/PanoNav_demo.png
 
 
 ### Overview
-This project 
+This project examined how individuals utilize multi-level spatial cues to construct and shift between **global-local reference frames** ([Marchette et al., 2014](https://www.nature.com/articles/nn.3834)) during spatial navigation in naturalistic environments. We employed the Judgment of Relative Direction (JRD) paradigm ([Huffman & Ekstrom, 2019](https://www.tandfonline.com/doi/full/10.1080/13875868.2018.1531869)) using **panoramic street scenes** (Exp 1) and a **virtual environment** (Exp 2). Ongoing fMRI work aims to further explore how scene-selective brain areas, especially retrosplenial cortex (RSC; [Epstein & Baker, 2019](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-091718-014809)), support these reference frame shifts. 
 
 ### *Experiment 1a & b: Panorama*
 Exp1 
