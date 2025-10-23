@@ -27,7 +27,8 @@ main:
     url: /code/
     
   - title: "CV"
-    url: /cv_pdf/
+    url: /assets/CV_QihaoHe.pdf
+    external: true
     
   - title: "Publications"
     url: /publications/
