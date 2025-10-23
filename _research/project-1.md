@@ -12,7 +12,7 @@ image: /images/research/PanoNav_demo.png
 ### Overview
 This project 
 
-### *Experiment 1: Panorama*
+### *Experiment 1a & b: Panorama*
 Exp1 
 
 <img src="/images/research/Pano_demo.png" alt="Experiment 1" style="max-width: 90%; border-radius: 12px;">
