@@ -29,6 +29,7 @@ Exp2
 <p align="center">
   <img src="/assets/Nav_demo.gif" alt="Navigation Demo" width="80%" style="border-radius: 12px; margin-top: 10px;">
 </p>
+
 ---
 
 ### Code Repository
