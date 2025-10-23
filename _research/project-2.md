@@ -3,8 +3,7 @@ title: "Dynamic Reconstruction of Perceptual Templates for Positive and Negative
 collection: research
 permalink: /research/FaceAU/
 excerpt: "Using reverse correlation and dynamic 3D face modeling to uncover emotion representation in individuals with high and low social anxiety."
-year: 2024
-institution: "Peking University"
+institution: "[SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm)"
 advisor: "[Prof. Yujia Peng](https://www.ypeng.org)"
 header:
   image: /images/research/FaceAU_stim_demo.png
