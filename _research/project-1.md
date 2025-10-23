@@ -12,15 +12,15 @@ image: /images/research/PanoNav_demo.png
 ### Overview
 This project 
 
-#### Experiment 1: Panorama
+### *Experiment 1: Panorama*
 Exp1 
 
-<img src="/images/research/Pano_demo.png" alt="Experiment 1" style="max-width: 80%; border-radius: 12px;">
+<img src="/images/research/Pano_demo.png" alt="Experiment 1" style="max-width: 90%; border-radius: 12px;">
 
-#### Experiment 2: Virtual City
+### *Experiment 2: Virtual City*
 Exp2 
 
-<img src="/images/research/Nav_demo.png" alt="Experiment 2" style="max-width: 80%; border-radius: 12px;">
+<img src="/images/research/Nav_demo.png" alt="Experiment 2" style="max-width: 90%; border-radius: 12px;">
 
 ---
 
