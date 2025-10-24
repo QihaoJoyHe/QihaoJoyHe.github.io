@@ -25,7 +25,9 @@ We explored human–machine differences in **face memory across age** using the 
 ---
 
 ### Online Experiment
-💻 [Try]
+*Study 2: Age-Related Face Memory*
+- 💻 [ID Version](https://qihaojoyhe.github.io/AgeFace_ID/)
+- 💻 [Image Version](https://qihaojoyhe.github.io/AgeFace_ID/)
 
 ---
 
