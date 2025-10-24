@@ -12,7 +12,7 @@ image: /images/research/IC_demo.png
 ### Overview
 This project investigated 
 
-<img src="/images/research/IC_demo.png" alt="Face demo" style="max-width: 80%; border-radius: 12px;">
+<img src="/images/research/IC_demo.png" alt="IC demo" style="max-width: 80%; border-radius: 12px;">
 
 ---
 
