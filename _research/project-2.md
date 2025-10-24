@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Reconstruction of Facial Emotion Representation Template in Social Anxiety"
+title: "Dynamic Reconstruction of Facial Emotion Representation Templates in Social Anxiety"
 order: 2
 collection: research
 permalink: /research/FaceAU/
