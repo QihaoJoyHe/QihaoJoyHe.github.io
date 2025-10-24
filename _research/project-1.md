@@ -1,5 +1,6 @@
 ---
 title: "Global-Local Reference Frame Shift: The Influence of Street Layout on Heading in Spatial Navigation"
+order: 1
 collection: research
 permalink: /research/PanoNav/
 excerpt: "Short description"
