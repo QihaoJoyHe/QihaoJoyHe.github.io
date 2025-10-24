@@ -17,7 +17,7 @@ This project explored whether **trial-level optimal confidence feedback** can im
 ---
 
 ### Online Experiment
-💻 [Try]
+💻 [Click Here!](https://qihaojoyhe.github.io/OptConf/)
 
 ---
 
