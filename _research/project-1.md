@@ -3,7 +3,7 @@ title: "Global-Local Reference Frame Shift: The Influence of Street Layout on He
 order: 1
 collection: research
 permalink: /research/PanoNav/
-excerpt: "Short description"
+excerpt: "Using panoramic street scenes and a virtual city to investigate how spatial layouts guide flexible shifts between global and local reference frames in navigation."
 institution: "[SPCS, Peking University](https://www.psy.pku.edu.cn/index.htm)"
 advisor: "[Prof. Sheng Li](https://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/ls/index.htm)"
 image: /images/research/PanoNav_demo.png
@@ -17,7 +17,7 @@ This project examined how individuals utilize multi-level spatial cues to constr
 We examined how **local street layout** and **global directional alignment** influence heading within a single panoramic intersection（using [Google Maps](https://www.google.com/maps/) and [iStreetView](https://svd360.com/)). Participants freely explored panoramic street scenes in learning and later performed JRD tasks based on cropped views.
 *Exp 1a* employed **regular** (cross) layouts, while *Exp 1b* used **irregular** ones. Results showed that regular layout enhanced local reference frame use (stronger alignment effects), whereas irregular layouts increased reliance on global direction. These findings suggest that local layout regularity facilitates local frame adoption. 
 
-<img src="/images/research/Pano_demo.png" alt="Experiment 1" style="max-width: 90%; border-radius: 12px;">
+<img src="/images/research/Pano_demo.png" alt="Experiment 1" style="max-width: 80%; border-radius: 12px;">
 
 ### *Experiment 2: Virtual City*
 Building on Exp 1a, we further constructed a large-scale virtual city based on [Unity](https://unity.com/) comprising three blocks whose local street layouts differed in **alignment** (0°, 22.5°, 45°) with the global north. Participants navigated the city and learned target intersections, performing two-level JRD tasks probing both **global** (between intersections) and **local** (within intersections) headings. Consistent with Exp 1a, alignment effects emerged in local JRDs, whereas global JRDs were modulated by layout misalignment, where global reference frames dominated when navigating between distinct local structures (block layouts). These results highlight interactive encoding between **local geometry** and **global spatial reference** in multi-level naturalistic environments, implicating the RSC in mediating reference frame shifts for the ongoing fMRI study in Exp 3.
