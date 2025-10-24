@@ -2,7 +2,7 @@
 title: "Aging Face Experiment Code"
 order: 3
 layout: archive
-excerpt: "Java scripts for the aging face experiment."
+excerpt: "Java scripts for the age-related face memory experiment."
 permalink: /code/project-3/
 ---
 
@@ -16,9 +16,8 @@ The experiment was implemented with **jsPsych** and **JavaScript**, presenting d
 
 ## Contents
 
-- **`FaceAU_main.m`** — Main experiment script.  
-- **`StimuliList.mat`** — 1200 preloaded dynamic face stimuli with randomized AU parameters. 
-- **`README.md`** — Documentation and experiment structure overview.
+- **`//.js`** — Main experiment script.  
+- **`index.html`** — 1200 preloaded dynamic face stimuli with randomized AU parameters. 
 
 ---
 
@@ -26,7 +25,8 @@ The experiment was implemented with **jsPsych** and **JavaScript**, presenting d
 
 The full experiment code is available on GitHub:
 
-🔗 [View Code Repository](https://github.com/QihaoJoyHe/AgeFace)
+🔗 **ID Condition:** [View Code Repository](https://github.com/QihaoJoyHe/AgeFace_ID)
+🔗 **Image Condition:** [View Code Repository](https://github.com/QihaoJoyHe/AgeFace_Image)
 
 ---
 
