@@ -1,5 +1,6 @@
 ---
 title: "FaceAU Experiment Code"
+order: 2
 layout: archive
 excerpt: "MATLAB scripts for the dynamic facial emotion recognition experiment based on FACS and GMF."
 permalink: /code/project-2/
