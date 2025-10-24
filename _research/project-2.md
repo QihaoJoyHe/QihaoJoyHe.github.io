@@ -1,5 +1,6 @@
 ---
 title: "Dynamic Reconstruction of Perceptual Templates for Positive and Negative Emotions in Social Anxiety Disorder"
+order: 2
 collection: research
 permalink: /research/FaceAU/
 excerpt: "Using reverse correlation and dynamic 3D face modeling based on Facial Action Coding System (FACS) to uncover emotion representation in individuals with high and low social anxiety."
