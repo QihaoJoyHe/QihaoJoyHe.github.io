@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% for post in site.code reversed %}
+{% assign sorted = site.code | sort: 'order' %}
+{% for post in sorted %}
   {% include archive-single.html type="code" %}
 {% endfor %}
