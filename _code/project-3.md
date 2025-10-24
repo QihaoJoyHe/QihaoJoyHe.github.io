@@ -8,16 +8,16 @@ permalink: /code/project-3/
 
 ## Overview
 
-This repository contains the js online experiment code for the **Aging Face project**, which investigated .
+This repository contains the js online experiment code for the **Aging Face project**, which investigated how humans recognize faces across aging.
 
-The experiment was implemented with **jsPsych** and **JavaScript**, presenting database.
+The experiment was implemented with **jsPsych** and **JavaScript**, presenting face stimuli under **identity-** and **image-** based memory tasks.
 
 ---
 
 ## Contents
 
-- **`//.js`** — Main experiment script.  
-- **`index.html`** — 1200 preloaded dynamic face stimuli with randomized AU parameters. 
+- **`/exp_files/exp_main.js`** — Main experiment script.  
+- **`index.html`** — Entry point for running the experiment online. 
 
 ---
 
@@ -25,8 +25,8 @@ The experiment was implemented with **jsPsych** and **JavaScript**, presenting d
 
 The full experiment code is available on GitHub:
 
-🔗 **ID Condition:** [View Code Repository](https://github.com/QihaoJoyHe/AgeFace_ID)
-🔗 **Image Condition:** [View Code Repository](https://github.com/QihaoJoyHe/AgeFace_Image)
+- 🔗 [ID Version](https://github.com/QihaoJoyHe/AgeFace_ID)
+- 🔗 [Image Version](https://github.com/QihaoJoyHe/AgeFace_Image)
 
 ---
 
