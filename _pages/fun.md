@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 A few pieces of my Chinese calligraphy. 
+
 <img src="/images/fun/f1.png" alt="f1" style="max-width: 90%; border-radius: 12px;">
 
 <img src="/images/fun/f2.png" alt="f2" style="max-width: 90%; border-radius: 12px;">
